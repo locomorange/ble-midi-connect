@@ -1,1 +1,1 @@
-# ble-midi-connect
+# BLE-MIDI Connect
