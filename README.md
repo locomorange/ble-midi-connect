@@ -1,6 +1,6 @@
 # BLE-MIDI Connect
 
-<img src="img/スクリーンショット1.png" width="25%">
+<img src="img/スクリーンショット1.png" width="35%">
 
 [BLE-MIDI Connect](https://www.microsoft.com/store/apps/9NVMLZTTWWVL) is an application that allows you to receive BLE MIDI (MIDI over Bluetooth) on Windows. 
 MIDI over Bluetooth LE products, which were previously only compatible with Mac, will also be available on Windows.
