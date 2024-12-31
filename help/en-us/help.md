@@ -1,7 +1,7 @@
 # Issues
 If you encounter any issues, please feel free to report them [here](https://github.com/locomorange/ble-midi-connect/issues).
 ## 🚨 Current Issues 🚨
-### Midi dupulication
+### Midi duplication
 Returning to the main page from the settings page results in midi duplication.  
 If the signal is duplicated, close the app and reopen it.
 
