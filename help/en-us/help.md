@@ -1,8 +1,7 @@
 # Issues
 If you encounter any issues, please feel free to report them [here](https://github.com/locomorange/ble-midi-connect/issues).
 ## 🚨 Current Issues 🚨
-### Unable to Disconnect
-Disconnecting via the app does not work. 
+### Unable to Disconnect via App
 To disconnect, please either close the app or turn off the device.
 
 # Helps
