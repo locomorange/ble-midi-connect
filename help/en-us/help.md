@@ -45,3 +45,6 @@ Use the pinning feature to enable auto-connect. Follow these steps:
 <img src="./../../img/スクリーンショット Pin.png" width="5%">
 
 <img src="./../../img/スクリーンショット Pinned.png" width="5%">
+
+# Licences
+[Licence List](/licenses/en-us/NuGetLicenses.md)
